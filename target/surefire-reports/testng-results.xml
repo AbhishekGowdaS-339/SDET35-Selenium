@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="54503" started-at="2022-06-14T10:56:37 IST" finished-at="2022-06-14T10:57:32 IST">
+    <groups>
+      <group name="regressionTest">
+        <method signature="CreateCampaignTest.createCampaignTest()[pri:0, instance:com.crm.comcast.campaignTest.CreateCampaignTest@148080bb]" name="createCampaignTest" class="com.crm.comcast.campaignTest.CreateCampaignTest"/>
+      </group> <!-- regressionTest -->
+    </groups>
+    <test name="Test" duration-ms="54503" started-at="2022-06-14T10:56:37 IST" finished-at="2022-06-14T10:57:32 IST">
+      <class name="com.crm.comcast.campaignTest.CreateCampaignTest">
+        <test-method status="PASS" signature="bSuite()[pri:0, instance:com.crm.comcast.campaignTest.CreateCampaignTest@148080bb]" name="bSuite" is-config="true" duration-ms="12" started-at="2022-06-14T10:56:37 IST" finished-at="2022-06-14T10:56:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bSuite -->
+        <test-method status="PASS" signature="bTest()[pri:0, instance:com.crm.comcast.campaignTest.CreateCampaignTest@148080bb]" name="bTest" is-config="true" duration-ms="0" started-at="2022-06-14T10:56:37 IST" finished-at="2022-06-14T10:56:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bTest -->
+        <test-method status="PASS" signature="bClass()[pri:0, instance:com.crm.comcast.campaignTest.CreateCampaignTest@148080bb]" name="bClass" is-config="true" duration-ms="24089" started-at="2022-06-14T10:56:37 IST" finished-at="2022-06-14T10:57:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bClass -->
+        <test-method status="PASS" signature="bMethod()[pri:0, instance:com.crm.comcast.campaignTest.CreateCampaignTest@148080bb]" name="bMethod" is-config="true" duration-ms="6192" started-at="2022-06-14T10:57:01 IST" finished-at="2022-06-14T10:57:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bMethod -->
+        <test-method status="PASS" signature="createCampaignTest()[pri:0, instance:com.crm.comcast.campaignTest.CreateCampaignTest@148080bb]" name="createCampaignTest" duration-ms="19358" started-at="2022-06-14T10:57:07 IST" finished-at="2022-06-14T10:57:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCampaignTest -->
+        <test-method status="PASS" signature="aMethod()[pri:0, instance:com.crm.comcast.campaignTest.CreateCampaignTest@148080bb]" name="aMethod" is-config="true" duration-ms="1639" started-at="2022-06-14T10:57:27 IST" finished-at="2022-06-14T10:57:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aMethod -->
+        <test-method status="PASS" signature="aclass()[pri:0, instance:com.crm.comcast.campaignTest.CreateCampaignTest@148080bb]" name="aclass" is-config="true" duration-ms="3145" started-at="2022-06-14T10:57:28 IST" finished-at="2022-06-14T10:57:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aclass -->
+        <test-method status="PASS" signature="aTest()[pri:0, instance:com.crm.comcast.campaignTest.CreateCampaignTest@148080bb]" name="aTest" is-config="true" duration-ms="1" started-at="2022-06-14T10:57:32 IST" finished-at="2022-06-14T10:57:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aTest -->
+        <test-method status="PASS" signature="aSuite()[pri:0, instance:com.crm.comcast.campaignTest.CreateCampaignTest@148080bb]" name="aSuite" is-config="true" duration-ms="1" started-at="2022-06-14T10:57:32 IST" finished-at="2022-06-14T10:57:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aSuite -->
+      </class> <!-- com.crm.comcast.campaignTest.CreateCampaignTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

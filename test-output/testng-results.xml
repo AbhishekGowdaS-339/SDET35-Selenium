@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-11T12:34:34 IST" name="Default suite" finished-at="2022-06-11T12:35:02 IST" duration-ms="28153">
+    <groups>
+      <group name="regressionTest">
+        <method signature="CreateContactTest.createContactTest()[pri:0, instance:com.crm.comcast.contactTest.CreateContactTest@619713e5]" name="createContactTest" class="com.crm.comcast.contactTest.CreateContactTest"/>
+      </group> <!-- regressionTest -->
+    </groups>
+    <test started-at="2022-06-11T12:34:34 IST" name="Default test" finished-at="2022-06-11T12:35:02 IST" duration-ms="28153">
+      <class name="com.crm.comcast.contactTest.CreateContactTest">
+        <test-method is-config="true" signature="bSuite()[pri:0, instance:com.crm.comcast.contactTest.CreateContactTest@619713e5]" started-at="2022-06-11T12:34:34 IST" name="bSuite" finished-at="2022-06-11T12:34:34 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bSuite -->
+        <test-method is-config="true" signature="bTest()[pri:0, instance:com.crm.comcast.contactTest.CreateContactTest@619713e5]" started-at="2022-06-11T12:34:34 IST" name="bTest" finished-at="2022-06-11T12:34:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bTest -->
+        <test-method is-config="true" signature="bClass()[pri:0, instance:com.crm.comcast.contactTest.CreateContactTest@619713e5]" started-at="2022-06-11T12:34:34 IST" name="bClass" finished-at="2022-06-11T12:34:39 IST" duration-ms="5215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bClass -->
+        <test-method is-config="true" signature="bMethod()[pri:0, instance:com.crm.comcast.contactTest.CreateContactTest@619713e5]" started-at="2022-06-11T12:34:39 IST" name="bMethod" finished-at="2022-06-11T12:34:42 IST" duration-ms="3083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bMethod -->
+        <test-method signature="createContactTest()[pri:0, instance:com.crm.comcast.contactTest.CreateContactTest@619713e5]" started-at="2022-06-11T12:34:43 IST" name="createContactTest" finished-at="2022-06-11T12:35:00 IST" duration-ms="17456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactTest -->
+        <test-method is-config="true" signature="aMethod()[pri:0, instance:com.crm.comcast.contactTest.CreateContactTest@619713e5]" started-at="2022-06-11T12:35:00 IST" name="aMethod" finished-at="2022-06-11T12:35:02 IST" duration-ms="2103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aMethod -->
+        <test-method is-config="true" signature="aclass()[pri:0, instance:com.crm.comcast.contactTest.CreateContactTest@619713e5]" started-at="2022-06-11T12:35:02 IST" name="aclass" finished-at="2022-06-11T12:35:02 IST" duration-ms="241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aclass -->
+        <test-method is-config="true" signature="aTest()[pri:0, instance:com.crm.comcast.contactTest.CreateContactTest@619713e5]" started-at="2022-06-11T12:35:02 IST" name="aTest" finished-at="2022-06-11T12:35:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aTest -->
+        <test-method is-config="true" signature="aSuite()[pri:0, instance:com.crm.comcast.contactTest.CreateContactTest@619713e5]" started-at="2022-06-11T12:35:02 IST" name="aSuite" finished-at="2022-06-11T12:35:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aSuite -->
+      </class> <!-- com.crm.comcast.contactTest.CreateContactTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
